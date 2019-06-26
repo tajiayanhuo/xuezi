@@ -1,2 +1,2 @@
-# xuezi-view
+# xuezi
 学子商城
